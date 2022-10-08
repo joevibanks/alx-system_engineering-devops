@@ -1,2 +1,2 @@
 #!/bin/bash
-chown
+sudo chown me 3-new_owner
